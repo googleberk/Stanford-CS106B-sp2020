@@ -1,0 +1,3 @@
+/Users/smallapple/Desktop/Stanford/CS106B_sp2020/lec01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/smallapple/Desktop/Stanford/CS106B_sp2020/lec01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/smallapple/Desktop/Stanford/CS106B_sp2020/lec01/cmake-build-debug/CMakeFiles/lec01.dir
