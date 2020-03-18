@@ -32,6 +32,8 @@ int main() {
     }
     printf("first %d perfect number list:", hyper_total);
     for (it = g_list.begin(); it != g_list.end(); it++){
+        // note, [it] was declared as an iterator at line 25, and we need to use * before it
+        // to get the value
         cout << " " << *it;
     }
     std::cout << endl;
